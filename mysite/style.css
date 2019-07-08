@@ -8,3 +8,19 @@ tr {
 dl {
     color:green;
 }
+dt {
+    color:blue;
+}
+dd {
+    color:red;
+}
+
+caption {
+    color:orange;
+}
+ul {
+    color:darkviolet;
+}
+ol {
+    color:darkgoldenrod;
+}
