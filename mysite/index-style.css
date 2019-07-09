@@ -1,0 +1,32 @@
+table {
+     color:blue;
+}
+
+tr {
+    color: red;
+}
+dl {
+    color:green;
+}
+dt {
+    color:blue;
+}
+dd {
+    color:red;
+}
+
+caption {
+    color:orange;
+}
+ul {
+    color:darkviolet;
+}
+ol {
+    color:darkgoldenrod;
+}
+
+body {
+background-image: url('https://static.skillshare.com/uploads/project/57958/cover_800_04b5259d123167f71ab533e293b91901.png');
+background-repeat: no-repeat;
+background-size: 1400px;
+}
